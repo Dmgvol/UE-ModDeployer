@@ -2,7 +2,7 @@
 A lightweight Python utility script for UE4/5 automated post-build deployment of chunk assigned mods. </br>
 The script waits for a successful build then moves the mods files and launches the game for rapid mod deployment and testing.
 
-Click [here](https://github.com/Dmgvol/UE-ModDeployer/raw/master/UE-ModDeployer.py) to download the latest build.
+Click [here](https://github.com/Dmgvol/UE-ModDeployer/releases/latest/download/UE-ModDeployer.py) to download the latest script version.
 
 ![](/deploy.gif)
 
@@ -62,3 +62,7 @@ All mod mappings are defined in a simple json file, as shown below: <br>
 > [!TIP]
 > Empty `relative_path` will place the mod inside the game's Paks folder.<br>
 > Relative paths are concatinated after the game's Paks folder -> `.../Paks/outfits/` (example 1)
+
+---
+> [!NOTE]
+> This is a private-use script for automating the most common procedure of modding.
