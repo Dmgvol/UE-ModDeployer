@@ -7,8 +7,8 @@ Click [here](https://github.com/Dmgvol/UE-ModDeployer/releases/latest/download/U
 ![](/deploy.gif)
 
 ### Features
-- **Monitors the packaging log** for successful mod builds.
-- **Moves and renmaes** the generated mod files (`.pak`, `.ucas`, and `.utoc`) files to the game's Paks folder.
+- **Monitors the packaging log** for successful builds.
+- **Moves and renames** the generated mod files (`.pak`, `.ucas`, and `.utoc`) files to the game's Paks folder.
 - **Launches the game automatically** after files are in place.
 - **Continuous monitoring** allows the tool to handle future builds.
 
